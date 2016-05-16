@@ -1,0 +1,9 @@
+--continue
+--no-overwrites
+--restrict-filenames
+--audio-format mp3
+--output '~/Music/%(title)s.%(ext)s'
+--retries 3
+--ignore-errors
+--audio-quality 0
+--format 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'
