@@ -2,7 +2,7 @@
 --no-overwrites
 --restrict-filenames
 --audio-format mp3
---output '~/Music/%(title)s.%(ext)s'
+--output '~/Downloads/%(title)s.%(ext)s'
 --retries 3
 --ignore-errors
 --audio-quality 0
